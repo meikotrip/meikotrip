@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Meiko 👋
 
-<!--
-**meikotrip/meikotrip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently studying at Sriwijaya University</a>
+- 🌱 I’m currently learning about Machine Learning and Data Science
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhamad-meiko-triputra-23823821a/), [Instagram](https://www.instagram.com/meikotrip_/)
+- ⚡ Fun fact: an introvert person.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Statistic
+<p align="left">
+<a href="https://github.com/meikotrip">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=meikotrip&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=meikotrip&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
