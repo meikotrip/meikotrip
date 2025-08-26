@@ -1,9 +1,9 @@
 ### Hi there, I'm Meiko 👋
 
-- 🔭 I’m currently studying at Sriwijaya University</a>
-- 🌱 I’m currently learning about Machine Learning and Data Science
+- 🔭 I’m a fresh graduate from Sriwijaya University</a>
+- 🌱 I’m currently looking for job related on Data Engineering dan Software Development
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/muhamad-meiko-triputra-23823821a/), [Instagram](https://www.instagram.com/meikotrip_/)
-- ⚡ Fun fact: an introvert person.
+- ⚡ Fun fact: Highly motivated person.
 
 ### Github Statistic
 <p align="left">
